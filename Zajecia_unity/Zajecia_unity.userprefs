@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skrypty moje\ZabijanieGracza.cs">
+    <Files>
+      <File FileName="Assets\Skrypty moje\KontrolowanePoruszanie.cs" Line="43" Column="19" />
+      <File FileName="Assets\Skrypty moje\Gracz.cs" Line="15" Column="33" />
+      <File FileName="Assets\Skrypty moje\ZabijanieGracza.cs" Line="9" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
